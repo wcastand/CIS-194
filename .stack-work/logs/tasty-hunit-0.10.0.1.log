@@ -1,0 +1,9 @@
+Configuring tasty-hunit-0.10.0.1...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for tasty-hunit-0.10.0.1..
+Building library for tasty-hunit-0.10.0.1..
+[1 of 3] Compiling Test.Tasty.HUnit.Orig ( Test/Tasty/HUnit/Orig.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Test/Tasty/HUnit/Orig.o )
+[2 of 3] Compiling Test.Tasty.HUnit.Steps ( Test/Tasty/HUnit/Steps.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Test/Tasty/HUnit/Steps.o )
+[3 of 3] Compiling Test.Tasty.HUnit ( Test/Tasty/HUnit.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Test/Tasty/HUnit.o )
+Installing library in /Users/wcastand/.stack/snapshots/x86_64-osx/lts-12.21/8.4.4/lib/x86_64-osx-ghc-8.4.4/tasty-hunit-0.10.0.1-DggKDb9MZ2V2zczZAbIAXq
+Registering library for tasty-hunit-0.10.0.1..
